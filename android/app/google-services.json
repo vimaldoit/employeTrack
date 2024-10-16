@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "779800401640",
+    "project_id": "deatailsapp",
+    "storage_bucket": "deatailsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779800401640:android:e3cd56dcf82327e74e5b5d",
+        "android_client_info": {
+          "package_name": "com.example.data_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXE9t11Mm4pn1v-MEVr6z6FHqsjzwu1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779800401640:android:feb138dfd3eaa3b84e5b5d",
+        "android_client_info": {
+          "package_name": "com.example.employeetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXE9t11Mm4pn1v-MEVr6z6FHqsjzwu1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
